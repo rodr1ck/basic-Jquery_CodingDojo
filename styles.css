@@ -1,0 +1,71 @@
+/* Author: Rodrigo Orellana */
+body * {
+    margin: 0px;
+    padding: 0px;
+    outline: 1px dashed red;
+   }
+#wrapper{
+    width: 970px;
+    margin: 0x auto; 
+}
+#header {
+    background-color: #c1c1c1;  
+    text-align: center;
+}
+#main {
+    text-align: center;
+}
+#addClass{
+    padding: 5px;
+    margin: 5px;
+    border-bottom: 5px solid black;
+} 
+#addClass p{
+    display: inline-block;
+} 
+#addClass button{
+    border-right: 3px solid black;
+    border-bottom: 3px solid black;
+    box-shadow: 0px 10 10px 0px black;
+    padding-right: 10px;
+    background-color: white;
+} 
+#slideToggle{
+    padding: 5px;
+    margin: 5px;
+    border-bottom: 5px solid black;
+} 
+#slideToggle p{
+    display: inline-block;
+} 
+#slideToggle button{
+    border-right: 3px solid black;
+    border-bottom: 3px solid black;
+    box-shadow: 0px 10 10px 0px black;
+    padding-right: 10px;
+    background-color: white;
+    
+} 
+#append{
+    padding: 5px;
+    margin: 5px 5px 0px 5px;
+    border-bottom: 5px solid black;
+} 
+#append p{
+    display: inline-block;
+} 
+#append button{
+    border-right: 3px solid black;
+    border-bottom: 3px solid black;
+    box-shadow: 0px 10 10px 0px black;
+    padding-right: 10px;
+    background-color: white;
+} 
+#footer {
+    background-color: #c1c1c1;
+
+}
+#footer img{
+    vertical-align: middle;
+   
+}
